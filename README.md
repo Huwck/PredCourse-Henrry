@@ -1,2 +1,1 @@
-# PredCourse-Henrry
-repositotio de prueba modulo 2
+Este poroyectyo es una prueba de como clonar un repositorio de la nube a local
